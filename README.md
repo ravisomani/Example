@@ -22,4 +22,11 @@ This is another edit in the test branch
 
 
 
+
 # Wait!  Here is another idea from the collaborator in line 25
+
+# These were both good ideas so lets keep both
+
+# Here is some new stuff for Test2
+A new idea in line 25. No way has a better idea
+
