@@ -35,3 +35,6 @@ Some more ideas
 
 
 New changes
+
+
+Hi Ravi, I'm adding these changes to this file since I am trying to figure out how it works
