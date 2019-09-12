@@ -12,3 +12,7 @@ Here are some more edits so that I can learn how to pull (e.g. as if it's pullin
 
 # A new title exist
 Something
+
+
+# Adding some titles
+In a new Test-Branch, I have added some stuff....
