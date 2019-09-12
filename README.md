@@ -2,7 +2,7 @@
 This is a test of how to use GitHub
 
 
-## Smaller 
+## Smaller
 
 ### Another subsection
 
@@ -30,3 +30,8 @@ This is another edit in the test branch
 # Here is some new stuff for Test2
 A new idea in line 25. No way has a better idea
 
+Some more ideas
+
+
+
+New changes
