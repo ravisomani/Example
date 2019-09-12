@@ -6,6 +6,7 @@ This is a test of how to use GitHub
 
 ### Another subsection
 
+<<<<<<< HEAD
 Another one
 
 Here are some more edits so that I can learn how to pull (e.g. as if it's pulling the collaborator's edits)
@@ -30,3 +31,5 @@ This is another edit in the test branch
 # Here is some new stuff for Test2
 A new idea in line 25. No way has a better idea
 
+=======
+>>>>>>> parent of f5e7bcc... Update README.md
