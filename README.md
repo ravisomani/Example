@@ -6,3 +6,4 @@ This is a test of how to use GitHub
 
 ### Another subsection
 
+Another one
